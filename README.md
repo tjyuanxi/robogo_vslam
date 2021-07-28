@@ -102,7 +102,8 @@ source ~/catkin_ws/devel/setup.bash ——根据具体环境进行修改成绝�
 rosbag play YOUR_DATASET_FOLDER/MH_01_easy.bag ——注意数据集的路径
 ```
 
-![image-20210728170941722](C:\Users\ubt\AppData\Roaming\Typora\typora-user-images\image-20210728170941722.png)
+![image](https://user-images.githubusercontent.com/34560457/127299034-bcc0d19b-ba83-4eb2-be1d-7a7a45263153.png)
+
 
 ## 注意：
 
